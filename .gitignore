@@ -1,0 +1,11 @@
+# Variáveis de ambiente (CRÍTICO - senhas do banco)
+.env
+
+# Dependências (serão instaladas com npm install)
+node_modules/
+
+# Prisma Client gerado (será gerado automaticamente)
+generated/
+
+# Logs
+*.log
